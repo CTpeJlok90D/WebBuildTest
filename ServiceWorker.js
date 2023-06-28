@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Car-0.1.0";
 const contentToCache = [
     "Build/WebBuild.loader.js",
-    "Build/WebBuild.framework.js.br",
-    "Build/WebBuild.data.br",
-    "Build/WebBuild.wasm.br",
+    "Build/WebBuild.framework.js.unityweb",
+    "Build/WebBuild.data.unityweb",
+    "Build/WebBuild.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
